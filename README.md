@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Guillermo 👋
 
 Junior bioinformatics scientist with more than 4 years of experience working in oncoimmunology and neurodegenerative diseases.
 
