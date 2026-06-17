@@ -4,7 +4,8 @@ I am a bioinformatician and molecular biology researcher with over 4 years of ex
 
 ### 🛠️ Skills
 - **Omics:** Bulk RNA-seq, scRNA-seq, proteomics, spatial transcriptomics, and CRISPR screening.
-- **Data Science:** Machine learning and advanced statistical modeling (R, Python, Bash).
+- **Structural bioinformatics**: Protein structure prediction (AlphaFold, Boltz2, ChimeraX, PyMOL).
+- **Data science:** Machine learning and advanced statistical modeling (R, Python, Bash).
 - **Databases:** Large-scale clinical and genomic datasets (TCGA, GTEx, GEO, EGA, dbGaP).
 - **Workflows:** Reproducible computational pipelines and data visualization.
 
