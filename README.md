@@ -13,7 +13,7 @@ I am a bioinformatician and molecular biology researcher with over 4 years of ex
 
 ### 🔬 Projects
 
-#### [The accumulation of orphan ribosomal proteins is a hallmark of ALS](https://github.com/KPlab-coding/Saez-Mas-2026-oRPs-ALS)
+#### [The accumulation of orphan ribosomal proteins is a hallmark of ALS](https://kplab-coding.github.io/Saez-Mas-2026-oRPs-ALS/)
 
 **About the research:**
 In this study, we explored the molecular mechanisms behind Amyotrophic Lateral Sclerosis (ALS), uncovering that the accumulation of orphan ribosomal proteins (oRPs) acts as a key driver of the disease.
