@@ -12,7 +12,7 @@ I am a bioinformatician and molecular biology researcher with over 4 years of ex
 
 ---
 
-### 🔬 Projects
+### 🔬 Selected Projects
 
 #### [The accumulation of orphan ribosomal proteins is a hallmark of ALS](https://kplab-coding.github.io/Saez-Mas-2026-oRPs-ALS/)
 
