@@ -8,6 +8,7 @@ I am a bioinformatician and molecular biology researcher with over 4 years of ex
 - **Data science:** Machine learning and advanced statistical modeling (R, Python, Bash).
 - **Databases:** Large-scale clinical and genomic datasets (TCGA, GTEx, GEO, EGA, dbGaP).
 - **Workflows:** Reproducible computational pipelines and data visualization.
+- **HPC & computing**: Working with high-performance computing (HPC) environments and workstation administration.
 
 ---
 
