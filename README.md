@@ -1,6 +1,6 @@
 ## Hi, I am Guillermo 👋
 
-I am a bioinformatician and molecular biology researcher with over 4 years of experience specializing in oncoimmunology and neurodegenerative diseases. 
+I am a bioinformatician and molecular biology researcher with over 5 years of experience specializing in oncoimmunology and neurodegenerative diseases. 
 
 ### 🛠️ Skills
 - **Omics:** Bulk RNA-seq, scRNA-seq, proteomics, spatial transcriptomics, and CRISPR screening.
